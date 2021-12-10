@@ -5,17 +5,14 @@
 Python 3, Pycharm(Anaconda, Virtual Machine)
 
 ## Main Dependencies
-- Open CV
+- Tensorflow
+- Numpy
+- OpenCV
 - Keras
-- Cmake
-- face_recognition
-- Dlib
+- h5py
 
 ## Introduction
 사용자의 표정을 통해 감정 별 특성을 분석하여 현 기분(총 7가지)을 파악할 수 있는 프로그램
-
-##  Predictive accuracy
-60.87%
 
 ## Deemo
 - 목소리 분석 결과 1 (Hz)
