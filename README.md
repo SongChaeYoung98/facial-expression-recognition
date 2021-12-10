@@ -4,15 +4,15 @@
 ## Language, Development tools
 Python 3, Pycharm(Anaconda, Virtual Machine)
 
-## Model
-emotion_model.hdf5
-
 ## Main Dependencies
 - Tensorflow
 - Numpy
 - OpenCV
 - Keras
 - h5py
+
+## Model
+emotion_model.hdf5
 
 ## Introduction
 사용자의 표정을 통해 감정 별 특성을 분석하여 기분을 파악할 수 있는 프로그램<br />
