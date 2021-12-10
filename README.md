@@ -12,7 +12,7 @@ Python 3, Pycharm(Anaconda, Virtual Machine)
 - h5py
 
 ## Introduction
-사용자의 표정을 통해 감정 별 특성을 분석하여 기분을 파악할 수 있는 프로그램
+사용자의 표정을 통해 감정 별 특성을 분석하여 기분을 파악할 수 있는 프로그램<br />
 분석 가능한 감정 종류 : angry, sad, happy, surprise, disgust, fear, neutral
 
 ## Deemo
