@@ -12,7 +12,7 @@ Python 3, Pycharm(Anaconda, Virtual Machine)
 - Dlib
 
 ## Introduction
-사용자의 표정을 통해 감정 별 특성을 분석해내 현 기분(총 7가지)을 파악할 수 있는 프로그램
+사용자의 표정을 통해 감정 별 특성을 분석하여 현 기분(총 7가지)을 파악할 수 있는 프로그램
 
 ##  Predictive accuracy
 60.87%
