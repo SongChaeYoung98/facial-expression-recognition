@@ -4,6 +4,9 @@
 ## Language, Development tools
 Python 3, Pycharm(Anaconda, Virtual Machine)
 
+## Model
+emotion_model.hdf5
+
 ## Main Dependencies
 - Tensorflow
 - Numpy
